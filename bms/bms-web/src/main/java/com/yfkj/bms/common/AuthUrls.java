@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by zhangzhixiang on 2017/5/9.
+ * Created by zhangzhixiang on 2017/5/25.
  */
 public class AuthUrls {
     public static List<String> getUrls(){
