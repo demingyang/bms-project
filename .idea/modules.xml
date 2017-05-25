@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bms/bms.iml" filepath="$PROJECT_DIR$/bms/bms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bms/bms-common/bms-common.iml" filepath="$PROJECT_DIR$/bms/bms-common/bms-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bms/bms-dao/bms-dao.iml" filepath="$PROJECT_DIR$/bms/bms-dao/bms-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bms/bms-domain/bms-domain.iml" filepath="$PROJECT_DIR$/bms/bms-domain/bms-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bms/bms-service/bms-service.iml" filepath="$PROJECT_DIR$/bms/bms-service/bms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bms/bms-web/bms-web.iml" filepath="$PROJECT_DIR$/bms/bms-web/bms-web.iml" />
+     
+    </modules>
+  </component>
+</project>
